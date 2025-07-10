@@ -1,0 +1,2 @@
+# Digital-Logic-Circuit-Implementation-in-MATLAB-with-circuit-drawing
+This MATLAB project allows users to input a desired number of Boolean variables, define the truth table outputs manually, and automatically generate, simplify, and visualize the corresponding digital logic circuit. It also provides a user-friendly GUI for full interaction — perfect for students, teachers, and digital design enthusiasts.
